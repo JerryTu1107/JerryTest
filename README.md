@@ -1,3 +1,3 @@
 # JerryTest
 iwconfig
-ifconfgi
+ifconfig
