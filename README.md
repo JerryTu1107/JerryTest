@@ -1,3 +1,4 @@
 # JerryTest
 iwconfig
 ifconfig
+ls
