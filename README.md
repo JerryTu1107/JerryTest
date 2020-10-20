@@ -2,3 +2,4 @@
 iwconfig
 ifconfig
 ls
+hciconfig
