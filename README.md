@@ -4,4 +4,3 @@ ifconfig
 ls
 hciconfig
 cd ..
-# JerryTest
